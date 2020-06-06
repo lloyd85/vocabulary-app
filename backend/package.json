@@ -16,7 +16,7 @@
     "@babel/polyfill": "^7.7.0",
     "apollo-boost": "^0.4.7",
     "apollo-cache-inmemory": "^1.6.5",
-    "apollo-server": "^2.9.15",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.9.15",
     "body-parser": "^1.19.0",
     "concurrently": "^5.0.2",
